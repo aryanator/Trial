@@ -30,7 +30,7 @@ The Dipole Amplitude Predictor module provides a RandomForest-based model for pr
    For example:
 
    ```sh
-   cd C:\Users\aryan\Downloads\Module_V0
+   cd C:/Users/aryan/Downloads/Module_V0
    pip install -e .
    ```
 
