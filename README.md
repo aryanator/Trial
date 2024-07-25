@@ -93,5 +93,16 @@ Feel free to submit issues and pull requests. Ensure your contributions follow t
 
 ## License
 
+# Models:
+
+V1: rf_1 
+Trained on a sample of data. Just for the purpose of setting things up
+
+V2: rf_2
+Pruned model, trained on whole data. Fairly accurate.
+
+V3: rf_3
+Finetuned large model, trained on whole data. Most accurate.
+
 
 ---
